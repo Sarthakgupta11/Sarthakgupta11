@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sarthak Gupta</h1>
-<h3 align="center">A 3rd-year student pursuing Bachelors in Computer science from TIET,Patiala.</h3>
+<h1 align="center">Hi, I'm Sarthak Gupta</h1>
+<h3 align="center">A final year student pursuing Bachelors in Computer science from TIET,Patiala.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakgupta11&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakgupta11" /> </p>
 
